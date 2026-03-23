@@ -1,7 +1,6 @@
 # Context-Aware Access Control Framework  
 **for Secure IoT Cyberinfrastructure**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Brueggs/context-aware-secure-iot)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Topics](https://img.shields.io/badge/topics-iot_security-blue)
 
